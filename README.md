@@ -53,7 +53,7 @@ Sample email:
 **Stan Lalli**
 
 - [Profile](https://github.com/lalliexperience "Stan Lalli")
-- [Email](mailto:lalliexperience@gmail.com?subject=GitHub Page Mikrotik-Multipinger "GitHub Page Mikrotik-Multipinger")
+- [Email](mailto:lalliexperience@gmail.com?subject="GitHub")
 
 ## 🤝 Support
 
