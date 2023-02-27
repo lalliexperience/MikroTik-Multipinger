@@ -20,4 +20,13 @@ pip3 install paramiko   # https://www.paramiko.org/installing.html
 **python.exe multipinger.py -r -e youremail@somedomain.com**
 
 
+
+Sample of code running. You can schedule it to run automatically with cron or task sceduler for regular checking:
+
 ![alt text](https://github.com/lalliexperience/Mikrotik-Multipinger/blob/main/screenshots/Mikrotik-Get-DHCP-Reservations.PNG?raw=true)
+
+Sample email:
+
+![alt text]([https://github.com/lalliexperience/Mikrotik-Multipinger/blob/main/screenshots/Mikrotik-Get-DHCP-Reservations.PNG](https://github.com/lalliexperience/Mikrotik-Multipinger/blob/main/screenshots/Mikrotik-DHCP-Reservations-send-email-when-device-not-pingable.PNG)?raw=true)
+
+
