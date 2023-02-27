@@ -121,7 +121,7 @@ parser = argparse.ArgumentParser(description="OPTIONS:",
                                 formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-e", "--emailsend", help="Send email report to this address")
 parser.add_argument("-r", "--reservations", help="Get a list of reservations with comments from the Mikrotik router. Enabling this disables JSON input requirement.", action='store_true')
-parser.add_argument("inputfile", help="JSON File to check for IPs")
+parser.add_argument("-i", "--inputfile",  help="JSON File to check for IPs")
 args = parser.parse_args()
 config = vars(args)
 
