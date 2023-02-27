@@ -50,7 +50,7 @@ Sample email:
 
 ## Author
 
-**Rohit Jain**
+**Stan Lalli**
 
 - [Profile](https://github.com/lalliexperience "Stan Lalli")
 - [Email](mailto:lalliexperience@gmail.com?subject=GitHub Page Mikrotik-Multipinger "GitHub Page Mikrotik-Multipinger")
