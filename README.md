@@ -40,4 +40,25 @@ Sample email:
 
 ![Mikrotik DHCP Reservations send email when device not pingable](https://github.com/lalliexperience/Mikrotik-Multipinger/blob/main/screenshots/Mikrotik-DHCP-Reservations-send-email-when-device-not-pingable.PNG?raw=true)
 
+---
+
+
+## Future Update Ideas
+
+- [ ] Make the SSH connection from a Mikrotik router instead of from the Pyhon host
+
+
+## Author
+
+**Rohit Jain**
+
+- [Profile](https://github.com/lalliexperience "Stan Lalli")
+- [Email](mailto:lalliexperience@gmail.com?subject=GitHub Page Mikrotik-Multipinger "GitHub Page Mikrotik-Multipinger")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
+
 
