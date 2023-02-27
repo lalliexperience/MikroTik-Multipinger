@@ -1,8 +1,8 @@
 <h1 align="center">Mikrotik-Multipinger</h1>
 
-<h2 align="center">
-## Pings hosts withing a network and sends an alert email if any are not found. It can also retrieve DHCP reservations from a Mikrotik router and ping those.
-</h2>
+<h3 align="center">
+Pings hosts withing a network and sends an alert email if any are not found. It can also retrieve DHCP reservations from a Mikrotik router and ping those.
+</h3>
 
 ---
 
