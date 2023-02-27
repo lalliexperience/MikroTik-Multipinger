@@ -8,6 +8,8 @@ Pings hosts withing a network and sends an alert email if any are not found. It 
 
 <h2 align="center">Additional package installation requirements</h2>
 
+Originally built on Python 3.9.6 but I have had no issues with different newer Python versions
+
 pip3 install multiping  # https://pypi.org/project/multiping/
 
 pip3 install argparse   # https://pypi.org/project/argparse/
