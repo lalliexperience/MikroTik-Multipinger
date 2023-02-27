@@ -1,9 +1,9 @@
-# Mikrotik-Multipinger
+<h1 align="center">Mikrotik-Multipinger</h1>
 ## Pings hosts withing a network and sends an alert email if any are not found. It can also retrieve DHCP reservations from a Mikrotik router and ping those.
 
 ---
 
-## Additional package installations required:
+<h2 align="center">Additional package installation requirements</h2>
 
 pip3 install multiping  # https://pypi.org/project/multiping/
 
@@ -13,7 +13,7 @@ pip3 install paramiko   # https://www.paramiko.org/installing.html
 
 ---
 
-## Usage:
+<h2 align="center">Usage</h2>
 
 ##### Ping a predeifned list of addresses in multipinger.json and if something is not found send an email. This does not log in to any routers:
 
