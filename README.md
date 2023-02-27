@@ -45,6 +45,8 @@ Sample email:
 
 ## Future Update Ideas
 
+- [ ] Make the target router assignable from command line instead of prefeined in script.
+- [ ] Make all options definable via command line arguments indstead of predefined in script.
 - [ ] Make the SSH connection from a Mikrotik router instead of from the Pyhon host
 
 
