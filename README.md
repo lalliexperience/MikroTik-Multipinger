@@ -28,7 +28,7 @@ pip3 install paramiko   # https://www.paramiko.org/installing.html
 
 ---
 
-<h2 align="center">Output Screenshotss</h2>
+<h2 align="center">Output Screenshots</h2>
 
 
 Sample of code running. You can schedule it to run automatically with cron or task sceduler for regular checking:
