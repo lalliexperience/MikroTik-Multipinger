@@ -11,3 +11,6 @@
 
 **python.exe multipinger.py -r -e youremail@somedomain.com**
 
+
+
+![alt text](https://github.com/lalliexperience/Mikrotik-Multipinger/blob/[branch]/image.jpg?raw=true)
