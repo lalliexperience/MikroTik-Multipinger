@@ -22,13 +22,13 @@ pip3 install paramiko   # https://www.paramiko.org/installing.html
 
 **python.exe multipinger.py multipinger.json -e youremail@somedomain.com**
 
-##### Log in to a Mikrotik router and obtain a list of DHCP reservations with contain comments (CTRL-M in winbox). Then ping all of these hosts. This pinging does not occur from the router and is pinging from the host running python:
+##### Log in to a Mikrotik router via SSH and obtain a list of DHCP reservations with contain comments (CTRL-M in winbox). Then ping all of these hosts. This pinging does not occur from the router and is pinging from the host running python:
 
 **python.exe multipinger.py -r -e youremail@somedomain.com**
 
 ---
 
-<h2 align="center">Output Screenshotsr</h2>
+<h2 align="center">Output Screenshotss</h2>
 
 
 Sample of code running. You can schedule it to run automatically with cron or task sceduler for regular checking:
